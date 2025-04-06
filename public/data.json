@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2025-04-06",
+    "asset": "BTC",
+    "terms": [
+      "OB",
+      "BB",
+      "FVG"
+    ],
+    "logic": "OB + BB combo at 4h demand. Strong setup.",
+    "chart": "https://pbs.twimg.com/media/GNtBDPaWIAA9Lld?format=jpg&name=medium"
+  }
+]
